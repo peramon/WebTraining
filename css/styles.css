@@ -7,6 +7,14 @@ body{
     border-radius: 2em;
 }
 
+
 #parrafo{
     color: blue;
+}
+.cabecera{
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 1%;
+    padding: 1em;
+    box-shadow: 0px 2px 20px 0px blue;
 }
