@@ -10,3 +10,5 @@ Sitio web para practicar el uso de Git y GitHub
 **Este readme es de practica para probar el markdown**
 
 ### Creado por Paul Ramon
+### Incluye buenos ejemplos
+### Disponible para todos
