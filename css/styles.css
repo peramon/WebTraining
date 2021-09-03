@@ -19,8 +19,14 @@ body{
     box-shadow: 0px 2px 20px 0px blue;
 }
 
-img{
+.portada{
     width: 590px;
+    height: 512px;
+
+}
+
+.robin{
+    width: 450px;
     height: 512px;
 
 }
